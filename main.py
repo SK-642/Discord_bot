@@ -10,7 +10,7 @@ client = discord.Client()
 
 sad_words = ["sad", "unhappy", "anxious", "depressed", "angry", "frustrated", "depression", "depressing", "gloomy", "mad", "restless", "overwhelm", "overwhelming", "overwhelmed", "miserable", "dead", "dying", "pissed", "fucked","fucked up","sed","ded","paralysed","numb","heart break","broken","broke", "pain", "sorrow","agony","failure","disappointment","disappointed","lies","lied","sleepless","hate"]
 
-starter_encouragements = ["cheer up!", "hang in ther!", "You doin great boi, dont give up!!","Keep your head high"]
+starter_encouragements = ["cheer up!", "hang in there!", "You doin great boi, dont give up!!","Keep your head high"]
 
 if "responding" not in db.keys():
   db["responding"]= True
